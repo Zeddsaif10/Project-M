@@ -1,2 +1,0 @@
-# Project-M
-Malware Detection
